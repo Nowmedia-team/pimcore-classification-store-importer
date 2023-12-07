@@ -1,5 +1,5 @@
 {
-  "name": "divante-ltd/pimcore-classification-store-importer",
+  "name": "nowmedia-team/pimcore-classification-store-importer",
   "description": "Pimcore bundle for Classificationstore import and export",
   "type": "pimcore-bundle",
   "license": "GPL-3.0-or-later",
